@@ -1,0 +1,15 @@
+{
+    "customer": {
+      "first_name": "",
+      "last_name": "",
+      "phone_number": "",
+      "email": "",
+      "job_site_address": {
+        "street_address": "",
+        "city": "",
+        "state": "",
+        "postal_code": ""
+      }
+    }
+  }
+  
